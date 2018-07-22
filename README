@@ -1,0 +1,3 @@
+Request throttler. See SimpleThrottler.java for details.
+Build with 'gradle build'. Of course you can import it into IntelliJ or whatever IDE you like.
+Test with 'gradle test', or run SimpleThrottlerTest in IntelliJ.
